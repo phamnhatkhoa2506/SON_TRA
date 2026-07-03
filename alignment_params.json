@@ -1,0 +1,7 @@
+{
+  "lon0": 108.21550539039173,
+  "lat0": 16.115887895370467,
+  "scale_x": 1.5484300578034674e-05,
+  "scale_y": 1.4668383126393762e-05,
+  "note": "lon at px x = lon0 + x*scale_x; lat at px y = lat0 - y*scale_y"
+}
